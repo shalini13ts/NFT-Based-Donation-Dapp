@@ -1,0 +1,14 @@
+*{
+    outline: none;
+}
+.operations >button{
+    background-color: rgba(13, 131, 13, 0.657);
+    color: white;
+    border: 0;
+    padding: 10px 20px;
+    transition: all 0.5s;
+}
+.operations>button:hover{
+    transform: scale(1.1);
+    background-color: green;
+}
